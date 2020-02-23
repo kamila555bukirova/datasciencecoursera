@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582454915482.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "403726876",
+    "id" : "6728DC09",
+    "lastKnownWriteTime" : 1582454975,
+    "last_content_update" : 1582454975769,
+    "path" : "~/Desktop/kamila_submission/HELLOWORLD.md",
+    "project_path" : "HELLOWORLD.md",
+    "properties" : {
+        "cursorPosition" : "12,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
